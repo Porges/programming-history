@@ -2,7 +2,7 @@
 
 Inspired by Cajori’s _A History of Mathematical Notations_, and/or *TV Tropes*.
 
-# Index
+# Topic index
 
 * [Casting](topics/casting.md)
 * [FIXME and other comment tags](topics/fixme.md)
