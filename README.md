@@ -1,6 +1,6 @@
 # History of Programming Language Topics
 
-Inspired by Cajori’s _A History of Mathematical Notations_.
+Inspired by Cajori’s _A History of Mathematical Notations_, and/or *TV Tropes*.
 
 # Index
 
