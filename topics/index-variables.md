@@ -26,15 +26,19 @@ This reads (translation by [Ian Bruce](http://www.17centurymaths.com/)):
 
 > 26. Just as we have been accustomed to specify the difference by the sign Δ, thus we will indicate the sum by the sign Σ; evidently if the difference of the function <i>y</i> were <i>z</i>, there will be <i>z</i> = Δ<i>y</i>; from which, if <i>y</i> may be given, the difference <i>z</i> is found we have shown before. But if moreover the difference <i>z</i> shall be given and the sum of this <i>y</i> must be found, <i>y</i> = Σ<i>z</i> is made and evidently from the equation <i>z</i> = Δ<i>y</i> on regressing this equation will have the form <i>y</i> = Σ<i>z</i>, where some constant quantity can be added on account of the reasons given above; []
 
-This doesn’t seem to be the Σ we’re looking for, as Euler uses it only in opposition to Δ (for finite differencing). In fact, Cajori notes that Eulers Σ received little attention, and it seems that only Lagrange adopted it. Here is an excerpt from his *[Œuvres](http://web.archive.org/web/20160312115220/http://www.archive.org/details/oeuvrespublies03lagruoft)* (printed MDCCCLXIX):
+This doesn’t seem to be the Σ we’re looking for, as Euler uses it only in opposition to Δ (for finite differencing). In fact, Cajori notes that Euler’s Σ received little attention, and it seems that only Lagrange adopted it. Here is an excerpt from his *[Œuvres](http://www.archive.org/details/oeuvrespublies03lagruoft)* (printed MDCCCLXIX):
 
-![](../images/ijk-lagrange.png)
+![](../images/ijk-lagrange.jpg)
 
-Again, we can see Σ is only used in opposition to Δ. Cajori next states that Σ to mean sum was used by Fourier, in his *Théorie Analytique de la chaleur* (1822), and here we find what were looking for:
+Again, we can see Σ is only used in opposition to Δ. Cajori next states that Σ to mean sum was used by Fourier, in his *[Théorie Analytique de la chaleur](http://www.archive.org/details/thorieanalytiq00four)* (1822), and here we find what are looking for:
 
-![](../images/ijk-fourier.png)
+![](../images/ijk-fourier.jpg)
 
-Since Fourier explains Σ several times in the book, and not just once, we can assume that the notation is either new or unfamiliar to most readers. In any case, it doesnt really matter who invented it, because while we have found our Σ, Fourier doesnt explain why he uses *i*. In fact, since he uses it to index sequences in other places it appears it must be an already-existing usage.
+> The sign Σ affects the number <i>i</i> and indicates that the sum must be taken from <i>i</i>=1 to <i>i</i>=1/0. One can also contain the first term 1 under the sign Σ, and we have: [equation]
+> 
+> It must then have all its integral values from -1/0 up to 1/0; that is what one indicates by writing the limits -1/0 and +1/0 next to the sign Σ, that one of the values of <i>i</i> is 0. This is the most concise expression of the solution.
+
+Since Fourier explains Σ several times in the book and not just once, we can assume that the notation is either new or unfamiliar to most readers. In any case, it doesnt really matter who invented it, because while we have found our Σ, Fourier doesnt explain why he uses *i*. In fact, since he uses it to index sequences in other places it appears it must be an already-existing usage.
 
 A quick skim of the text by Euler above shows that he uses indexing very rarely (despite the subject of the text being a prime candidate!), and when he does, he uses *m*.
 
