@@ -27,3 +27,4 @@ The earliest instance of "pure function" on Google Groups in this sense [is from
 * 1993: High Performance Fortran (`PURE`), VHDL-93 (`pure`)
 * 1995: Ada 95 (<code><strong>pragma</strong> Pure</code>)
 * 1990: Haskell (all functions)
+* 2010: .NET (`PureAttribute`, `[Pure]` in C# syntax) – introduced to support Code Contracts
