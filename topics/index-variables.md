@@ -16,7 +16,7 @@ This leads us to look further back, for a mathematical source.
 
 ### Mathematics
 
-The most common place (at least for non-mathematicians) to see *ijk* in mathematics is with *sigma notation*, when using the summation operator Σ.
+The most common place (at least for non-mathematicians) to see *ijk* in mathematics is probably with *sigma notation*, when using the summation operator Σ.
 
 Florian Cajori’s *A History of Mathematical Notations* states that Σ was first used by Euler, in *[Institutiones calculi differentialis](http://books.google.co.nz/books?id=sYE_AAAAcAAJ)* (1755).
 
