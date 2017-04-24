@@ -2,7 +2,7 @@
 
 ### History
 
-Wikipedia states that garbage collection was invented by John McCarthy.
+Garbage collection was invented by John McCarthy [for the original LISP implementation on the IBM 704](http://www-formal.stanford.edu/jmc/recursive.html) (1958).
 
 ### Well-known implementations
 
