@@ -1,4 +1,4 @@
-\## Character names
+## Character names
 
 ### ASCII
 
