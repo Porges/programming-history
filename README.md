@@ -2,6 +2,8 @@
 
 Inspired by Cajori’s _A History of Mathematical Notations_, and/or *TV Tropes*.
 
+* [Terminology/glossary](topics/terms.md)
+
 # Topic index
 
 * [Casting](topics/casting.md)
