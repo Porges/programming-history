@@ -1,4 +1,4 @@
-## Character names
+\## Character names
 
 ### ASCII
 
@@ -8,7 +8,7 @@ TODO: Jargon file? It's a bit silly
 |------|---------|-------|
 | `!` | exclamation mark | bang |
 | `/` | solidus | slash |
-| <code>\</code> | reverse solidus | backslash, whack |
+| <code>&#92;</code> | reverse solidus | backslash, whack |
 | <code>&#124;</code> | vertical line | bar, pipe |
 
 ### APL-specific
