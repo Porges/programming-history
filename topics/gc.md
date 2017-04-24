@@ -44,7 +44,7 @@ Explicit finalizers should not be used in modern code. Classes that manage exter
 
 #### PHP
 
-PHP ≥ 5.3 (2009) uses a hybrid reference-counted/GC approach. Most objects are destroyed due to going out of scope, and have their destructors (`__destruct`) invoked at that point. Destructors are called in dependency order unless the program is shutting down, in which case the order is undefined.
+PHP ≥ 5.3 (2009) uses a hybrid reference-counted/GC approach. Most objects are destroyed due to going out of scope, and have their destructors (methods named `__destruct`) invoked at that point. Destructors are called in dependency order unless the program is shutting down, in which case the order is undefined.
 
 Objects that are caught in a reference cycle are periodically collected by GC. It is not specified what happens to destructors in this case.
 

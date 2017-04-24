@@ -2,7 +2,6 @@
 
 Inspired by Cajori’s _A History of Mathematical Notations_, and/or *TV Tropes*.
 
-* [Terminology/glossary](topics/terms.md)
 
 # Topic index
 
@@ -18,3 +17,8 @@ Inspired by Cajori’s _A History of Mathematical Notations_, and/or *TV Tropes*
 * [Stack](topics/stack.md)
 * [Switches](topics/switch.md)
 * [Virtual methods, procedures, etc](topics/virtual.md)
+
+# Miscellanea
+
+* [Character names](misc/char_names.md)
+* [Terminology](misc/terms.md)
