@@ -4,7 +4,7 @@
 <dt>Identifiers</dt>
 <dd>
     <ul>
-    <li>✓: follows [UAX-31](http://www.unicode.org/reports/tr31/).</li>
+    <li>✓: follows <a href="http://www.unicode.org/reports/tr31/">UAX-31</a>.</li>
     <li>(Blank): allows Unicode in some form.</li>
     <li>✗: does not allow Unicode.</li>
     </ul>
