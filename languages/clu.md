@@ -12,3 +12,6 @@
 
 * [A History of CLU](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf) (1992)
 * [CLU Reference Manual](http://www.lcs.mit.edu/publications/pubs/pdf/MIT-LCS-TR-225.pdf) (1979)
+
+About:
+* [A critique of the programming language CLU](http://jklp.org/profession/papers/clu/paper.htm) (1978)
