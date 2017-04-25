@@ -1,5 +1,7 @@
 ## Character names
 
+Collect these for cuteness.
+
 ### ASCII
 
 TODO: Jargon file? It's a bit silly

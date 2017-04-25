@@ -16,9 +16,10 @@ Inspired by Cajori’s _A History of Mathematical Notations_, and/or *TV Tropes*
 * [Trampolining](topics/trampolining.md)
 * [Stack](topics/stack.md)
 * [Switches](topics/switch.md)
+* [Unicode support](topics/unicode-support.md)
 * [Virtual methods, procedures, etc](topics/virtual.md)
 
 # Miscellanea
 
-* [Character names](misc/char_names.md)
+* [Character names](misc/char-names.md)
 * [Terminology](misc/terms.md)
