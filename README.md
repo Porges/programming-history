@@ -14,6 +14,7 @@ Inspired by Cajori’s _A History of Mathematical Notations_, and/or *TV Tropes*
 * [Pure functions](topics/purity.md)
 * [Subroutines](topics/subroutines.md)
 * [Trampolining](topics/trampolining.md)
+* [Recursion](topics/recursion.md)
 * [Stack](topics/stack.md)
 * [Switches](topics/switch.md)
 * [Unicode support](topics/unicode-support.md)
