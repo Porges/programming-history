@@ -4,9 +4,9 @@
 <dt>Identifiers</dt>
 <dd>
     <ul>
-    <li>Green: follows [UAX-31](http://www.unicode.org/reports/tr31/).</li>
-    <li>White: allows Unicode in some form.</li>
-    <li>Red: does not allow Unicode.</li>
+    <li>✓: follows [UAX-31](http://www.unicode.org/reports/tr31/).</li>
+    <li>(Blank): allows Unicode in some form.</li>
+    <li>✗: does not allow Unicode.</li>
     </ul>
 </dd>
 </dl>
@@ -19,11 +19,11 @@
 <tbody>
 <tr>
   <td>Haskell</td>
-  <td>`Ll|Lu|Lt|Nd|_|'`</td>
+  <td><code>Ll|Lu|Lt|Nd|_|'</code></td>
 </tr>
 <tr>
   <td>Python 3</td>
-  <td style="background-color: palegreen">`XID_Start XID_Continue*`</td>
+  <td>✓ <code>XID_Start XID_Continue*</code></td>
 </tr>
 </trow>
 </tbody>
