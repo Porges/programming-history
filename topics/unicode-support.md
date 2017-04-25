@@ -19,7 +19,7 @@
 <tbody>
 <tr>
   <td>Haskell</td>
-  <td>✓ <code>Ll|Lu|Lt|Nd|_|'</code></td>
+  <td>✓ <code>Ll|Lu|Lt (Ll|Lu|Lt|Nd|_|')*</code></td>
 </tr>
 <tr>
   <td>Python 3</td>
