@@ -55,3 +55,9 @@ The main implemention (known as ‘CPython’) uses a hybrid reference-counted/G
 Objects that are caught in a reference cycle are periodically collected by GC. In CPython 2, if a cycle contains an object with a destructor, none of the objects are finalized or freed, and they are instead stored in a list ([`gc.garbage`](https://docs.python.org/2/library/gc.html)). In CPython ≥ 3.4 (2014), finalizers on all objects in a cycle are invoked in an arbitrary order. In addition, in CPython ≥ 3.4, finalizers are only ever invoked once, even if an object is resurrected.
 
 Other implementations such as PyPy implement full GC as in other languages, and so finalization occurs on non-user threads. In order to maintain parity with CPython finalization semantics, [PyPy performs finalization in a ‘topological’ manner](https://morepypy.blogspot.com.au/2008/02/python-finalizers-semantics-part-1.html).
+
+#### Ruby
+
+The main Ruby implementation (also known as ‘CRuby’ or ‘MRI’) uses a generational garbage collector as of version 2.1 (2013). Earlier versions used mark & sweep.
+
+Finalization is supported (via [`ObjectSpace.define_finalizer`](https://ruby-doc.org/core-2.2.3/ObjectSpace.html#define_finalizer-method)). For some reason, capturing a reference to `self` in the a finalizer `proc` allegedly [prevents the object from being collected](http://www.mikeperham.com/2010/02/24/the-trouble-with-ruby-finalizers/).
