@@ -51,6 +51,5 @@
   <td><a href="https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/LexicalStructure.html#//apple_ref/doc/uid/TP40014097-CH30-ID410">✓ (see link)</a></td>
   <td><a href="https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html">✓ (can represent extended grapheme clusters as well)</a></td>
 </tr>
-</trow>
 </tbody>
 </table>
