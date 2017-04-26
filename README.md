@@ -3,7 +3,7 @@
 Inspired by Cajori’s _A History of Mathematical Notations_, and/or *TV Tropes*.
 
 
-# Topic index
+## Topic index
 
 * [Casting](topics/casting.md)
 * [FIXME and other comment tags](topics/fixme.md)
@@ -17,10 +17,15 @@ Inspired by Cajori’s _A History of Mathematical Notations_, and/or *TV Tropes*
 * [Recursion](topics/recursion.md)
 * [Stack](topics/stack.md)
 * [Switches](topics/switch.md)
-* [Unicode support](topics/unicode-support.md)
 * [Virtual methods, procedures, etc](topics/virtual.md)
 
-# Miscellanea
+## Language comparisons
+
+* [Garbage collection](comparisons/gc.md)
+* [Lambda (anonymous) functions](comparisons/lambda.md)
+* [Unicode support](comparisons/unicode-support.md)
+
+## Miscellanea
 
 * [Character names](misc/char-names.md)
 * [Terminology](misc/terms.md)
