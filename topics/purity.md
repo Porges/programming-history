@@ -8,7 +8,7 @@ Because of this, I think that finding a true “first” occurrence will be near
 
 For programming languages, a little searching shows that [Ada 95](http://www.adacore.com/multimedia/Ada95_RM_HTML/RM-10-2-1.html) (`pragma Pure`), [High Performance Fortran](http://www.vcpc.univie.ac.at/information/mirror/HPFF/hpf1/hpf-v10/subsubsection2_5_3_1_1.html) (1993) (`PURE`) and [VHDL-93](http://www.vhdl.org/isac/IRs-VHDL-93/IR1083.txt) (`pure`) all contain formal notions of what 'pure functions' are.
 
-Haskell (1990) is fairly obvious, but purity isn't explicit. GCC's C has [various function attributes](http://gcc.gnu.org/onlinedocs/gcc/Function-Attributes.html) for various differing levels of 'pure'.
+Haskell (1990) is fairly obvious, but purity isn't explicit (_impurity_ is marked by the `IO` type instead). GCC's C has [various function attributes](http://gcc.gnu.org/onlinedocs/gcc/Function-Attributes.html) for various differing levels of 'pure'.
 
 A couple of books: [*Rationale for the C programming language*](http://books.google.com/books?id=yxLISD0TAbEC&lpg=PA48&dq=%22pure%20function%22&pg=PA48#v=onepage&q=%22pure%20function%22&f=false) (1990) uses the term, as does [*Programming Languages and their Definitions*](http://books.google.com/books?id=mCoN_I5vjX0C&lpg=PA139&dq=%22a%20pure%20function%22&pg=PA139#v=onepage&q=%22a%20pure%20function%22&f=false) (1984). However, both apparently only use it once! *Programming the IBM Personal Computer, Pascal* (also 1984) uses the term, but it isn't clear from Google's restricted view whether or not the Pascal compiler had support for it. (I suspect not.)
 
