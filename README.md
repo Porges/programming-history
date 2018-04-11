@@ -6,6 +6,7 @@ Inspired by Cajori’s _A History of Mathematical Notations_, and/or *TV Tropes*
 
 ## Topic index
 
+* [Assignment](topics/assignment.md)
 * [Casting](topics/casting.md)
 * [FIXME and other comment tags](topics/fixme.md)
 * [Garbage collection](topics/gc.md)
