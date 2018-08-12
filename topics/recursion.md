@@ -1,6 +1,6 @@
 ## Recursion
 
-### TODO
+### See also
 
 * [How recursion got into programming: a tale of intrigue, betrayal, and advanced programming-language semantics](https://vanemden.wordpress.com/2014/06/18/how-recursion-got-into-programming-a-comedy-of-errors-3/)
 * [On the origin of recursive procedures](http://www.fibonacci.org/GHE7.pdf)
