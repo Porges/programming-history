@@ -1,3 +1,5 @@
 ## Branch prediction
 
-* See: https://danluu.com/branch-prediction/
+### See also
+
+* https://danluu.com/branch-prediction/
